@@ -2,9 +2,9 @@
 
 # Red Hat Open Hybrid Cloud 
 
-# PoV Development Workshop 
+## PoV Development Workshop 
 
-## Version V0324
+### Version V0324
 
 ## Agenda:
 
