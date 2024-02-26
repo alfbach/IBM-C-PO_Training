@@ -1,6 +1,6 @@
 <img src="https://github.com/RHEPDS/OCPFundation4IBM/blob/main/logo.png" width="450" height="120">
 
-# Red Hat Hybrid Cloud 
+# Red Hat Open Hybrid Cloud 
 
 # PoV Development Workshop 
 
