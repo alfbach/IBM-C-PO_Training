@@ -24,7 +24,9 @@
 
 14:45-15:15		OpenShift Plus
 
-15:15-16:00		Automation & EDGE / AI / ML
+15:15-15:35		OpenShift AI
+
+15:35-16:00   Automation
 
 16:00-16:15		Break
 
