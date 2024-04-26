@@ -12,9 +12,11 @@
 
 09:15-10:00		Why OpenShift - Value Prop. 
 
-10:00-11:00		IBM Sessions
+10:00-10:30		IBM Consulting Offering (Gilles Lehoux)
 
-11:00-11:15  Coffee Break
+10:30-11:00   Going to market? Q & A
+
+11:00-11:15   Coffee Break
 
 11:15-12:00 	OpenShift Virtualisation
 
